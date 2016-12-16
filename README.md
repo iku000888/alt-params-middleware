@@ -28,6 +28,8 @@ an enhanced params middleware that supports a pluggable decoder.
 The commons-decoder mentioned above is implemented here as a reference: 
 https://github.com/iku000888/alt-params-middleware/blob/master/src/alt_params_middleware/core.clj#L10
 
+## Acknowledgement
+Obviously most of the code is copy/pasted from ring.middleware.params and ring.util.codec.
 
 ## License
 
