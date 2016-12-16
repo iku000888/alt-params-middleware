@@ -1,5 +1,7 @@
 # alt-params-middleware
 
+![CircleCI] (https://circleci.com/gh/iku000888/alt-params-middleware/tree/master.png?circle-token=	bbaa74465b8b0c2b5b220197f924cbd97f94138a)
+
 A drop in replacement of the ring's params middleware,
 with an option to provide a custom decoder fn.
 
